@@ -1,0 +1,12 @@
+{
+  "appName": "MovieBox Premium",
+  "version": "4.0.03.0930.03",
+  "forceUpdate": true,
+  "updateUrl": "https://t.me/Moviebox_Premium_Pro",
+  "btnUpdateText": "JOIN TELEGRAM",
+  "btnExitText": "EXIT",
+  "changelog": [
+    "Welcome to My Version",
+    "Join our Telegram Channel"
+  ]
+}
