@@ -1,0 +1,12 @@
+{
+  "appName": "RooMODS",
+  "version": "30.9.5",
+  "forceUpdate": true,
+  "updateUrl": "https://t.me/RooMODS",
+  "btnUpdateText": "UPDATE NOW",
+  "btnExitText": "EXIT",
+ "changelog": [
+ "Updated Premium Version Uploaded On Channel",
+ "ad-free"
+ ]
+}
